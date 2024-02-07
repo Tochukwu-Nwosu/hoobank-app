@@ -22,6 +22,9 @@ const Hero = () => (
           <GetStarted />
         </div>
       </div>
+
+      <h1 className="font-poppins font-semibold text-white text-[52px] leading-[75px] ss:text-[68px] ss:leading-[100px]">Payment Method.</h1>
+
     </div>
   </section>
 )
